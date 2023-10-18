@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding-inline-start: 0;
+}
+
+body{
+    background-color: #EBF9F8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+main{
+    background-color: #FFFFFF;
+    width: 1410px;
+    height: 670px;
+    border-radius: 20px;
+
+    display: grid;
+
+}
