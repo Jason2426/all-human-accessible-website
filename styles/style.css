@@ -1,22 +1,77 @@
 * {
     margin: 0;
-    padding-inline-start: 0;
+    padding: 0;
+    
 }
 
-body{
-    background-color: #EBF9F8;
+body {
+    background: #6aa5a5;
+    font-family: 'Inter';
+}
+
+/* Header styling  */
+
+header {
     display: flex;
-    justify-content: center;
+    flex-direction: row;
     align-items: center;
-    height: 100vh;
+    width: 1fr;
+    height: 6.25em;
+    margin: 2em;
+    border-radius: 0.3em;
+    background-color: #fff;  
 }
 
-main{
-    background-color: #FFFFFF;
-    width: 1410px;
-    height: 670px;
-    border-radius: 20px;
+.logo {
+    margin-left: 2em;
+    width: 3.75em;
+    height: 3.75em;
+}
+label {
+    margin-left: 1em;
+    font-weight: 800;
+}
 
-    display: grid;
+/* nav styling */
 
+nav {
+    display: flex;
+}
+ul {
+    list-style-type: none;
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: #6aa5a5;
+}
+
+
+/* main styling  */
+
+main {
+
+    & h1 {
+        color: #fff;
+        font-size: 50px;
+        font-weight: bolder;
+    }
+
+    & p {
+        color: #fff;
+        font-size: 21px;
+        font-weight: 400;
+    }
+}
+
+button {
+    border: 1px solid #0EB0E7;
+    width: 33.5em;
+    height: 3.5em;
+    background-color: #fff;
+    border-radius: 0.6em;
+
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
