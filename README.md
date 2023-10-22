@@ -4,7 +4,7 @@
 
 Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
 
-![Uploading Screenshot 2023-10-22 at 15.02.27.png…]()
+<img width="1618" alt="Screenshot 2023-10-22 at 15 02 27" src="https://github.com/Jason2426/all-human-accessible-website/assets/143999883/24c954e2-12ad-4e16-b3e6-7da9daa257d7">
 
 ## Inhoudsopgave
 
