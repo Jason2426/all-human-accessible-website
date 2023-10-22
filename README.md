@@ -4,6 +4,8 @@
 
 Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
 
+![Uploading Screenshot 2023-10-22 at 15.02.27.png…]()
+
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
