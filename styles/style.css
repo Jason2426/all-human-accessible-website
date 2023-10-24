@@ -15,7 +15,6 @@ nav {
     display: flex;
     flex-direction: row;
     align-items: center;
-
     height: 6.25em;
     margin: 2em;
     border-radius: 0.3em;
@@ -48,6 +47,7 @@ a:hover {
 h3 {
     text-decoration-line: underline;
     text-decoration-color: #6aa5a5;
+
 }
 
 
@@ -57,26 +57,29 @@ main {
 display: flex;
 flex-direction: row;
 margin: 5em 6em 0em 6em;
-
+justify-content: center;
 height: fit-content;
 }
 
 .test1 {
-width: 50%;
+width: 40%;
+margin: 0em 5em 2em 5em;
 }
 .test2{
 width: 50%;
-background-color: #fff;
-border-radius: 1em;
-width: 400px;
-height: 470px;
 }
 
 h1 {
-    color: #242323;
+    color: #161515;
     font-size: 50px;
     font-weight: 700;
 }
+
+p {
+    margin: 1em 0em 1em 0em;
+    font-size: 1.25em;
+}
+
 button {
     border: 1px solid #151515;
     width: 33.5em;
