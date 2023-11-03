@@ -27,6 +27,7 @@ Technieken : HTML & CSS
 Tools : VS Code en Figma
 
 ## Bronnen
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## Licentie
 
