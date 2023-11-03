@@ -29,6 +29,8 @@ Tools : VS Code en Figma
 ## Bronnen
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Subgrid
+
 ## Licentie
 
 
