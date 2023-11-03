@@ -31,6 +31,8 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Subgrid
 
+https://medium.com/@bloominari/color-psychology-in-web-design-f60656b8f313
+
 ## Licentie
 
 
